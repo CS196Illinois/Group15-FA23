@@ -1,4 +1,4 @@
-# Group TEAM_NUMBER
+# Group 15
 Group Name: TEAM_NAME
 
 [MVP Link](http://cs196.cs.illinois.edu)
