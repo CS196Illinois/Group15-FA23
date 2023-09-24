@@ -3,6 +3,6 @@ Group Name: TEAM_NAME
 
 [MVP Link](http://cs196.cs.illinois.edu)
 
-Team Members: faizms2, alp10, dsali5
+Team Members: faizms2, alp10, dsali5, joycejk2
 
 Project Manager: PM_NETID
