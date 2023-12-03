@@ -10,7 +10,7 @@ function Home() {
             
         </div>
         <div className="drawArea">
-          <p>draw</p>
+          <p></p>
         </div>
 
         <div className="buttonContainer">
