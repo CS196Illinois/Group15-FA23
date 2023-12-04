@@ -6,16 +6,16 @@ function Home() {
   return (
     <div className="home">
         <div className="headerContainer">
-          <h1>draw a circle</h1>
+          <h1>Your Drawing</h1>
             
         </div>
         <div className="drawArea">
-          <p>draw</p>
+          <p></p>
         </div>
 
         <div className="buttonContainer">
           <Link to="/result">
-            <button>result</button>
+            <button>Results Page</button>
           </Link>
         </div>
     </div>
