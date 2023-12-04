@@ -1,5 +1,6 @@
 import React from 'react'
 import { ResultList } from "../helpers/resultList";
+import { Link } from "react-router-dom";
 import ResultItem from "../components/ResultItem";
 import "../styles/Result.css";
 
@@ -15,6 +16,11 @@ function Result() {
               name={resultItem.name} 
             />
           })}
+        </div>
+        <div id="returnToHomeButton" className="buttonContainer">
+          <Link to="/">
+            <button>Return to Home</button>
+          </Link>
         </div>
     </div>
   )
