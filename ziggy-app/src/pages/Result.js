@@ -7,7 +7,7 @@ import "../styles/Result.css";
 function Result() {
   return (
     <div className="result">
-        <h1 className="resultTitle">results:</h1>
+        <h1 className="resultTitle">Results:</h1>
         <div className="resultList">
           {ResultList.map((resultItem, key) => {
             return <ResultItem 
@@ -19,7 +19,7 @@ function Result() {
         </div>
         <div id="returnToHomeButton" className="buttonContainer">
           <Link to="/">
-            <button>Return to Home</button>
+            <button>Try again</button>
           </Link>
         </div>
     </div>

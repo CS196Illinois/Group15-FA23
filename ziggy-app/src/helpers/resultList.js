@@ -18,4 +18,12 @@ export const ResultList = [
         name: "Australia",
         image: Scribble,
     },
+    {
+        name: "Mexico",
+        image: Scribble2,
+    },
+    {
+        name: "Chile",
+        image: Scribble,
+    },
 ]
