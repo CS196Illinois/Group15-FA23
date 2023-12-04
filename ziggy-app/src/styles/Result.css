@@ -1,3 +1,9 @@
+#returnToHomeButton {
+    position: absolute;
+    right: 29%;
+    bottom:  10%;
+}
+
 .result {
     width: 100%;
     height: auto;
