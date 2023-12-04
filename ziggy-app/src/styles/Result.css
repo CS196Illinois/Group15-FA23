@@ -1,7 +1,6 @@
 #returnToHomeButton {
-    position: absolute;
-    right: 29%;
-    bottom:  10%;
+    display: flex;
+    margin: 20px 0 0 25%;
 }
 
 .result {
